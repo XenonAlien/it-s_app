@@ -1,0 +1,7 @@
+name: tts_app
+description: A simple Flutter TTS app
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^3.8.3
